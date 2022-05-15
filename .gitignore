@@ -1,1 +1,9 @@
 *checkpoint*
+_*
+*.png
+*.rst
+*.txt
+*.py
+*.dat
+*.prof
+*.pyc
