@@ -7,3 +7,4 @@ _*
 *.dat
 *.prof
 *.pyc
+docs*
